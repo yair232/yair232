@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm yair ginat</h1>
-<h3 align="center">A passionate junior devop from Israel</h3>
+<h3 align="center">A passionate junior devops from Israel</h3>
 
 - 🌱 I’m currently learning **nitzanim devops course**
 
